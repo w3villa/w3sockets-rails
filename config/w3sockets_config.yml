@@ -1,0 +1,9 @@
+development:
+  public_key: ''
+  secret_key: ''
+staging:
+  public_key: ''
+  secret_key: ''
+production:
+  public_key: ''
+  secret_key: ''
